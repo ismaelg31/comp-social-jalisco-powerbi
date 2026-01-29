@@ -28,4 +28,18 @@ Reporte en **Power BI Desktop (.pbix)** para visualizar y analizar indicadores d
 - Mejoré la lectura de indicadores con métricas derivadas (ratios) y navegación por secciones para exploración más rápida.
 - Dejé el proyecto listo para versionado en GitHub con estructura simple y documentada.
 
+## Vista del Dashboard
+
+### HOME
+![HOME](docs/screenshots/home.png)
+
+### URBANO
+![URBANO](docs/screenshots/urbano.png)
+
+### ECONÓMICO
+![ECONOMICO](docs/screenshots/economico.png)
+
+### CULTURAL
+![CULTURAL](docs/screenshots/cultural.png)
+
 ---
